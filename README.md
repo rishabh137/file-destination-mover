@@ -1,6 +1,6 @@
 # file destination mover
 
-Moves your files on its correct destination according to file extension at the time of downloading.
+Moves your files to its correct destination according to file extension at the time of downloading.
 
 # The Problem
 I wanted a solution that will automatically move the files to its correct file path at the time of downloading i.e. .mp3 in music folder, .mp4 in videos folder etc.
